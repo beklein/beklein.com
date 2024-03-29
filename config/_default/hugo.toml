@@ -1,0 +1,42 @@
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://blowfish.page/docs/getting-started/
+
+theme = "blowfish"
+baseURL = "https://beklein.com/"
+defaultContentLanguage = "en"
+
+enableRobotsTXT = true
+paginate = 10
+summaryLength = 0
+
+buildDrafts = false
+buildFuture = false
+
+[author]
+  name = "Bernd Klein"
+  image = "img/author.jpg"
+  headline = "Interested in solving problems in robotics and AI."
+  bio = "Interested in solving problems in robotics and AI."
+  links = [
+    { email = "mailto:hello@beklein.com" },
+    { github = "https://github.com/beklein" },
+    { linkedin = "https://linkedin.com/in/bernd-klein-8b5b712b9" },
+  ]
+
+[imaging]
+  anchor = 'Center'
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+  series = "series"
+
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

@@ -1,0 +1,14 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "beklein"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "assets/author.gif"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "beklein.com | Personal website of Bernd Klein about IoT, robotics and AI."
+  copyright = "© { year } beklein.com"
