@@ -15,7 +15,7 @@ buildFuture = false
 
 [author]
   name = "Bernd Klein"
-  image = "img/author.jpg"
+  image = "img/author.gif"
   headline = "Interested in solving problems in robotics and AI."
   bio = "Interested in solving problems in robotics and AI."
   links = [
