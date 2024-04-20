@@ -1,0 +1,3798 @@
+{
+    "#acc2d9": {
+        "human": "cloudy blue",
+        "ai": "sky blue"
+    },
+    "#56ae57": {
+        "human": "dark pastel green",
+        "ai": "lime green"
+    },
+    "#b2996e": {
+        "human": "dust",
+        "ai": "orange"
+    },
+    "#a8ff04": {
+        "human": "electric lime",
+        "ai": "lime green"
+    },
+    "#69d84f": {
+        "human": "fresh green",
+        "ai": "lime green"
+    },
+    "#894585": {
+        "human": "light eggplant",
+        "ai": "magenta"
+    },
+    "#70b23f": {
+        "human": "nasty green",
+        "ai": "lime green"
+    },
+    "#d4ffff": {
+        "human": "really light blue",
+        "ai": "mint green"
+    },
+    "#65ab7c": {
+        "human": "tea",
+        "ai": "mint green"
+    },
+    "#952e8f": {
+        "human": "warm purple",
+        "ai": "magenta"
+    },
+    "#fcfc81": {
+        "human": "yellowish tan",
+        "ai": "lemon"
+    },
+    "#a5a391": {
+        "human": "cement",
+        "ai": "pistachio"
+    },
+    "#388004": {
+        "human": "dark grass green",
+        "ai": "green"
+    },
+    "#4c9085": {
+        "human": "dusty teal",
+        "ai": "turquoise"
+    },
+    "#5e9b8a": {
+        "human": "grey teal",
+        "ai": "turquoise"
+    },
+    "#efb435": {
+        "human": "macaroni and cheese",
+        "ai": "orange"
+    },
+    "#d99b82": {
+        "human": "pinkish tan",
+        "ai": "peach"
+    },
+    "#0a5f38": {
+        "human": "spruce",
+        "ai": "green"
+    },
+    "#0c06f7": {
+        "human": "strong blue",
+        "ai": "blue"
+    },
+    "#61de2a": {
+        "human": "toxic green",
+        "ai": "lime green"
+    },
+    "#3778bf": {
+        "human": "windows blue",
+        "ai": "blue"
+    },
+    "#2242c7": {
+        "human": "blue blue",
+        "ai": "blue"
+    },
+    "#533cc6": {
+        "human": "blue with a hint of purple",
+        "ai": "blue"
+    },
+    "#9bb53c": {
+        "human": "booger",
+        "ai": "lime green"
+    },
+    "#05ffa6": {
+        "human": "bright sea green",
+        "ai": "mint green"
+    },
+    "#1f6357": {
+        "human": "dark green blue",
+        "ai": "hunter green"
+    },
+    "#017374": {
+        "human": "deep turquoise",
+        "ai": "teal"
+    },
+    "#0cb577": {
+        "human": "green teal",
+        "ai": "mint green"
+    },
+    "#ff0789": {
+        "human": "strong pink",
+        "ai": "fuchsia"
+    },
+    "#afa88b": {
+        "human": "bland",
+        "ai": "beige"
+    },
+    "#08787f": {
+        "human": "deep aqua",
+        "ai": "teal"
+    },
+    "#dd85d7": {
+        "human": "lavender pink",
+        "ai": "magenta"
+    },
+    "#a6c875": {
+        "human": "light moss green",
+        "ai": "lime green"
+    },
+    "#a7ffb5": {
+        "human": "light seafoam green",
+        "ai": "mint green"
+    },
+    "#c2b709": {
+        "human": "olive yellow",
+        "ai": "chartreuse"
+    },
+    "#e78ea5": {
+        "human": "pig pink",
+        "ai": "pink"
+    },
+    "#966ebd": {
+        "human": "deep lilac",
+        "ai": "purple"
+    },
+    "#ccad60": {
+        "human": "desert",
+        "ai": "yellow"
+    },
+    "#ac86a8": {
+        "human": "dusty lavender",
+        "ai": "lavender"
+    },
+    "#947e94": {
+        "human": "purpley grey",
+        "ai": "lavender"
+    },
+    "#983fb2": {
+        "human": "purply",
+        "ai": "purple"
+    },
+    "#ff63e9": {
+        "human": "candy pink",
+        "ai": "magenta"
+    },
+    "#b2fba5": {
+        "human": "light pastel green",
+        "ai": "mint green"
+    },
+    "#63b365": {
+        "human": "boring green",
+        "ai": "lime green"
+    },
+    "#8ee53f": {
+        "human": "kiwi green",
+        "ai": "lime green"
+    },
+    "#b7e1a1": {
+        "human": "light grey green",
+        "ai": "mint green"
+    },
+    "#ff6f52": {
+        "human": "orange pink",
+        "ai": "orange"
+    },
+    "#bdf8a3": {
+        "human": "tea green",
+        "ai": "mint green"
+    },
+    "#d3b683": {
+        "human": "very light brown",
+        "ai": "beige"
+    },
+    "#fffcc4": {
+        "human": "egg shell",
+        "ai": "pale yellow"
+    },
+    "#430541": {
+        "human": "eggplant purple",
+        "ai": "purple"
+    },
+    "#ffb2d0": {
+        "human": "powder pink",
+        "ai": "pink"
+    },
+    "#997570": {
+        "human": "reddish grey",
+        "ai": "salmon"
+    },
+    "#ad900d": {
+        "human": "baby shit brown",
+        "ai": "yellow"
+    },
+    "#c48efd": {
+        "human": "liliac",
+        "ai": "lavender"
+    },
+    "#507b9c": {
+        "human": "stormy blue",
+        "ai": "sky blue"
+    },
+    "#7d7103": {
+        "human": "ugly brown",
+        "ai": "olive green"
+    },
+    "#fffd78": {
+        "human": "custard",
+        "ai": "lemon"
+    },
+    "#da467d": {
+        "human": "darkish pink",
+        "ai": "magenta"
+    },
+    "#410200": {
+        "human": "deep brown",
+        "ai": "maroon"
+    },
+    "#c9d179": {
+        "human": "greenish beige",
+        "ai": "chartreuse"
+    },
+    "#fffa86": {
+        "human": "manilla",
+        "ai": "yellow"
+    },
+    "#5684ae": {
+        "human": "off blue",
+        "ai": "blue"
+    },
+    "#6b7c85": {
+        "human": "battleship grey",
+        "ai": "blue"
+    },
+    "#6f6c0a": {
+        "human": "browny green",
+        "ai": "olive green"
+    },
+    "#7e4071": {
+        "human": "bruise",
+        "ai": "purple"
+    },
+    "#009337": {
+        "human": "kelley green",
+        "ai": "green"
+    },
+    "#d0e429": {
+        "human": "sickly yellow",
+        "ai": "lime green"
+    },
+    "#fff917": {
+        "human": "sunny yellow",
+        "ai": "yellow-green"
+    },
+    "#1d5dec": {
+        "human": "azul",
+        "ai": "blue"
+    },
+    "#054907": {
+        "human": "darkgreen",
+        "ai": "green"
+    },
+    "#b5ce08": {
+        "human": "green/yellow",
+        "ai": "lime green"
+    },
+    "#8fb67b": {
+        "human": "lichen",
+        "ai": "mint green"
+    },
+    "#c8ffb0": {
+        "human": "light light green",
+        "ai": "mint green"
+    },
+    "#fdde6c": {
+        "human": "pale gold",
+        "ai": "yellow"
+    },
+    "#ffdf22": {
+        "human": "sun yellow",
+        "ai": "yellow"
+    },
+    "#a9be70": {
+        "human": "tan green",
+        "ai": "lime green"
+    },
+    "#6832e3": {
+        "human": "burple",
+        "ai": "blue-purple"
+    },
+    "#fdb147": {
+        "human": "butterscotch",
+        "ai": "orange"
+    },
+    "#c7ac7d": {
+        "human": "toupe",
+        "ai": "beige"
+    },
+    "#fff39a": {
+        "human": "dark cream",
+        "ai": "yellow"
+    },
+    "#850e04": {
+        "human": "indian red",
+        "ai": "red"
+    },
+    "#efc0fe": {
+        "human": "light lavendar",
+        "ai": "lilac"
+    },
+    "#40fd14": {
+        "human": "poison green",
+        "ai": "lime green"
+    },
+    "#b6c406": {
+        "human": "baby puke green",
+        "ai": "lime green"
+    },
+    "#9dff00": {
+        "human": "bright yellow green",
+        "ai": "lime green"
+    },
+    "#3c4142": {
+        "human": "charcoal grey",
+        "ai": "black"
+    },
+    "#f2ab15": {
+        "human": "squash",
+        "ai": "orange"
+    },
+    "#ac4f06": {
+        "human": "cinnamon",
+        "ai": "orange"
+    },
+    "#c4fe82": {
+        "human": "light pea green",
+        "ai": "lime green"
+    },
+    "#2cfa1f": {
+        "human": "radioactive green",
+        "ai": "lime green"
+    },
+    "#9a6200": {
+        "human": "raw sienna",
+        "ai": "amber"
+    },
+    "#ca9bf7": {
+        "human": "baby purple",
+        "ai": "lavender"
+    },
+    "#875f42": {
+        "human": "cocoa",
+        "ai": "burnt orange"
+    },
+    "#3a2efe": {
+        "human": "light royal blue",
+        "ai": "blue"
+    },
+    "#fd8d49": {
+        "human": "orangeish",
+        "ai": "orange"
+    },
+    "#8b3103": {
+        "human": "rust brown",
+        "ai": "burnt orange"
+    },
+    "#cba560": {
+        "human": "sand brown",
+        "ai": "orange"
+    },
+    "#698339": {
+        "human": "swamp",
+        "ai": "green"
+    },
+    "#0cdc73": {
+        "human": "tealish green",
+        "ai": "green"
+    },
+    "#b75203": {
+        "human": "burnt siena",
+        "ai": "orange"
+    },
+    "#7f8f4e": {
+        "human": "camo",
+        "ai": "lime green"
+    },
+    "#26538d": {
+        "human": "dusk blue",
+        "ai": "blue"
+    },
+    "#63a950": {
+        "human": "fern",
+        "ai": "lime green"
+    },
+    "#c87f89": {
+        "human": "old rose",
+        "ai": "pink"
+    },
+    "#b1fc99": {
+        "human": "pale light green",
+        "ai": "light green"
+    },
+    "#ff9a8a": {
+        "human": "peachy pink",
+        "ai": "salmon"
+    },
+    "#f6688e": {
+        "human": "rosy pink",
+        "ai": "pink"
+    },
+    "#76fda8": {
+        "human": "light bluish green",
+        "ai": "mint green"
+    },
+    "#53fe5c": {
+        "human": "light bright green",
+        "ai": "lime green"
+    },
+    "#4efd54": {
+        "human": "light neon green",
+        "ai": "lime green"
+    },
+    "#a0febf": {
+        "human": "light seafoam",
+        "ai": "mint green"
+    },
+    "#7bf2da": {
+        "human": "tiffany blue",
+        "ai": "mint green"
+    },
+    "#bcf5a6": {
+        "human": "washed out green",
+        "ai": "mint green"
+    },
+    "#ca6b02": {
+        "human": "browny orange",
+        "ai": "orange"
+    },
+    "#107ab0": {
+        "human": "nice blue",
+        "ai": "blue"
+    },
+    "#2138ab": {
+        "human": "sapphire",
+        "ai": "blue"
+    },
+    "#719f91": {
+        "human": "greyish teal",
+        "ai": "turquoise"
+    },
+    "#fdb915": {
+        "human": "orangey yellow",
+        "ai": "orange"
+    },
+    "#fefcaf": {
+        "human": "parchment",
+        "ai": "pale yellow"
+    },
+    "#fcf679": {
+        "human": "straw",
+        "ai": "yellow"
+    },
+    "#1d0200": {
+        "human": "very dark brown",
+        "ai": "maroon"
+    },
+    "#cb6843": {
+        "human": "terracota",
+        "ai": "orange"
+    },
+    "#31668a": {
+        "human": "ugly blue",
+        "ai": "blue"
+    },
+    "#247afd": {
+        "human": "clear blue",
+        "ai": "blue"
+    },
+    "#ffffb6": {
+        "human": "creme",
+        "ai": "yellow-green"
+    },
+    "#90fda9": {
+        "human": "foam green",
+        "ai": "mint green"
+    },
+    "#86a17d": {
+        "human": "grey/green",
+        "ai": "mint green"
+    },
+    "#fddc5c": {
+        "human": "light gold",
+        "ai": "yellow"
+    },
+    "#78d1b6": {
+        "human": "seafoam blue",
+        "ai": "mint green"
+    },
+    "#13bbaf": {
+        "human": "topaz",
+        "ai": "turquoise"
+    },
+    "#fb5ffc": {
+        "human": "violet pink",
+        "ai": "magenta"
+    },
+    "#20f986": {
+        "human": "wintergreen",
+        "ai": "lime green"
+    },
+    "#ffe36e": {
+        "human": "yellow tan",
+        "ai": "yellow"
+    },
+    "#9d0759": {
+        "human": "dark fuchsia",
+        "ai": "magenta"
+    },
+    "#3a18b1": {
+        "human": "indigo blue",
+        "ai": "blue"
+    },
+    "#c2ff89": {
+        "human": "light yellowish green",
+        "ai": "lime green"
+    },
+    "#d767ad": {
+        "human": "pale magenta",
+        "ai": "magenta"
+    },
+    "#720058": {
+        "human": "rich purple",
+        "ai": "magenta"
+    },
+    "#ffda03": {
+        "human": "sunflower yellow",
+        "ai": "yellow"
+    },
+    "#01c08d": {
+        "human": "green/blue",
+        "ai": "turquoise"
+    },
+    "#ac7434": {
+        "human": "leather",
+        "ai": "orange"
+    },
+    "#014600": {
+        "human": "racing green",
+        "ai": "green"
+    },
+    "#9900fa": {
+        "human": "vivid purple",
+        "ai": "purple"
+    },
+    "#02066f": {
+        "human": "dark royal blue",
+        "ai": "blue"
+    },
+    "#8e7618": {
+        "human": "hazel",
+        "ai": "mustard"
+    },
+    "#d1768f": {
+        "human": "muted pink",
+        "ai": "hot pink"
+    },
+    "#96b403": {
+        "human": "booger green",
+        "ai": "lime green"
+    },
+    "#fdff63": {
+        "human": "canary",
+        "ai": "lemon"
+    },
+    "#95a3a6": {
+        "human": "cool grey",
+        "ai": "sky blue"
+    },
+    "#7f684e": {
+        "human": "dark taupe",
+        "ai": "burnt orange"
+    },
+    "#751973": {
+        "human": "darkish purple",
+        "ai": "purple"
+    },
+    "#089404": {
+        "human": "true green",
+        "ai": "green"
+    },
+    "#ff6163": {
+        "human": "coral pink",
+        "ai": "coral"
+    },
+    "#598556": {
+        "human": "dark sage",
+        "ai": "green"
+    },
+    "#214761": {
+        "human": "dark slate blue",
+        "ai": "navy blue"
+    },
+    "#3c73a8": {
+        "human": "flat blue",
+        "ai": "blue"
+    },
+    "#ba9e88": {
+        "human": "mushroom",
+        "ai": "peach"
+    },
+    "#021bf9": {
+        "human": "rich blue",
+        "ai": "blue"
+    },
+    "#734a65": {
+        "human": "dirty purple",
+        "ai": "purple"
+    },
+    "#23c48b": {
+        "human": "greenblue",
+        "ai": "mint green"
+    },
+    "#8fae22": {
+        "human": "icky green",
+        "ai": "lime green"
+    },
+    "#e6f2a2": {
+        "human": "light khaki",
+        "ai": "chartreuse"
+    },
+    "#4b57db": {
+        "human": "warm blue",
+        "ai": "blue"
+    },
+    "#d90166": {
+        "human": "dark hot pink",
+        "ai": "fuchsia"
+    },
+    "#015482": {
+        "human": "deep sea blue",
+        "ai": "blue"
+    },
+    "#9d0216": {
+        "human": "carmine",
+        "ai": "red"
+    },
+    "#728f02": {
+        "human": "dark yellow green",
+        "ai": "lime green"
+    },
+    "#ffe5ad": {
+        "human": "pale peach",
+        "ai": "beige"
+    },
+    "#4e0550": {
+        "human": "plum purple",
+        "ai": "purple"
+    },
+    "#f9bc08": {
+        "human": "golden rod",
+        "ai": "yellow"
+    },
+    "#ff073a": {
+        "human": "neon red",
+        "ai": "red"
+    },
+    "#c77986": {
+        "human": "old pink",
+        "ai": "pink"
+    },
+    "#d6fffe": {
+        "human": "very pale blue",
+        "ai": "mint green"
+    },
+    "#fe4b03": {
+        "human": "blood orange",
+        "ai": "orange"
+    },
+    "#fd5956": {
+        "human": "grapefruit",
+        "ai": "coral"
+    },
+    "#fce166": {
+        "human": "sand yellow",
+        "ai": "yellow"
+    },
+    "#b2713d": {
+        "human": "clay brown",
+        "ai": "orange"
+    },
+    "#1f3b4d": {
+        "human": "dark blue grey",
+        "ai": "navy blue"
+    },
+    "#699d4c": {
+        "human": "flat green",
+        "ai": "lime green"
+    },
+    "#56fca2": {
+        "human": "light green blue",
+        "ai": "mint green"
+    },
+    "#fb5581": {
+        "human": "warm pink",
+        "ai": "magenta"
+    },
+    "#3e82fc": {
+        "human": "dodger blue",
+        "ai": "blue"
+    },
+    "#a0bf16": {
+        "human": "gross green",
+        "ai": "lime-green"
+    },
+    "#d6fffa": {
+        "human": "ice",
+        "ai": "mint green"
+    },
+    "#4f738e": {
+        "human": "metallic blue",
+        "ai": "blue"
+    },
+    "#ffb19a": {
+        "human": "pale salmon",
+        "ai": "peach"
+    },
+    "#5c8b15": {
+        "human": "sap green",
+        "ai": "green"
+    },
+    "#54ac68": {
+        "human": "algae",
+        "ai": "lime green"
+    },
+    "#89a0b0": {
+        "human": "bluey grey",
+        "ai": "sky blue"
+    },
+    "#7ea07a": {
+        "human": "greeny grey",
+        "ai": "mint green"
+    },
+    "#1bfc06": {
+        "human": "highlighter green",
+        "ai": "lime green"
+    },
+    "#cafffb": {
+        "human": "light light blue",
+        "ai": "mint green"
+    },
+    "#b6ffbb": {
+        "human": "light mint",
+        "ai": "mint green"
+    },
+    "#a75e09": {
+        "human": "raw umber",
+        "ai": "orange"
+    },
+    "#152eff": {
+        "human": "vivid blue",
+        "ai": "blue"
+    },
+    "#8d5eb7": {
+        "human": "deep lavender",
+        "ai": "purple"
+    },
+    "#5f9e8f": {
+        "human": "dull teal",
+        "ai": "turquoise"
+    },
+    "#63f7b4": {
+        "human": "light greenish blue",
+        "ai": "mint green"
+    },
+    "#606602": {
+        "human": "mud green",
+        "ai": "olive green"
+    },
+    "#fc86aa": {
+        "human": "pinky",
+        "ai": "pink"
+    },
+    "#8c0034": {
+        "human": "red wine",
+        "ai": "maroon"
+    },
+    "#758000": {
+        "human": "shit green",
+        "ai": "lime green"
+    },
+    "#ab7e4c": {
+        "human": "tan brown",
+        "ai": "orange"
+    },
+    "#030764": {
+        "human": "darkblue",
+        "ai": "blue"
+    },
+    "#fe86a4": {
+        "human": "rosa",
+        "ai": "pink"
+    },
+    "#d5174e": {
+        "human": "lipstick",
+        "ai": "fuchsia"
+    },
+    "#fed0fc": {
+        "human": "pale mauve",
+        "ai": "lavender"
+    },
+    "#680018": {
+        "human": "claret",
+        "ai": "maroon"
+    },
+    "#fedf08": {
+        "human": "dandelion",
+        "ai": "yellow"
+    },
+    "#fe420f": {
+        "human": "orangered",
+        "ai": "red-orange"
+    },
+    "#6f7c00": {
+        "human": "poop green",
+        "ai": "lime green"
+    },
+    "#ca0147": {
+        "human": "ruby",
+        "ai": "magenta"
+    },
+    "#1b2431": {
+        "human": "dark",
+        "ai": "navy blue"
+    },
+    "#00fbb0": {
+        "human": "greenish turquoise",
+        "ai": "turquoise"
+    },
+    "#db5856": {
+        "human": "pastel red",
+        "ai": "red"
+    },
+    "#ddd618": {
+        "human": "piss yellow",
+        "ai": "yellow"
+    },
+    "#41fdfe": {
+        "human": "bright cyan",
+        "ai": "turquoise"
+    },
+    "#cf524e": {
+        "human": "dark coral",
+        "ai": "red"
+    },
+    "#21c36f": {
+        "human": "algae green",
+        "ai": "green"
+    },
+    "#a90308": {
+        "human": "darkish red",
+        "ai": "red"
+    },
+    "#6e1005": {
+        "human": "reddy brown",
+        "ai": "maroon"
+    },
+    "#fe828c": {
+        "human": "blush pink",
+        "ai": "coral"
+    },
+    "#4b6113": {
+        "human": "camouflage green",
+        "ai": "green"
+    },
+    "#4da409": {
+        "human": "lawn green",
+        "ai": "lime green"
+    },
+    "#beae8a": {
+        "human": "putty",
+        "ai": "beige"
+    },
+    "#0339f8": {
+        "human": "vibrant blue",
+        "ai": "blue"
+    },
+    "#a88f59": {
+        "human": "dark sand",
+        "ai": "orange"
+    },
+    "#5d21d0": {
+        "human": "purple/blue",
+        "ai": "blue"
+    },
+    "#feb209": {
+        "human": "saffron",
+        "ai": "orange"
+    },
+    "#4e518b": {
+        "human": "twilight",
+        "ai": "blue"
+    },
+    "#964e02": {
+        "human": "warm brown",
+        "ai": "orange"
+    },
+    "#85a3b2": {
+        "human": "bluegrey",
+        "ai": "sky blue"
+    },
+    "#ff69af": {
+        "human": "bubble gum pink",
+        "ai": "magenta"
+    },
+    "#c3fbf4": {
+        "human": "duck egg blue",
+        "ai": "mint green"
+    },
+    "#2afeb7": {
+        "human": "greenish cyan",
+        "ai": "mint green"
+    },
+    "#005f6a": {
+        "human": "petrol",
+        "ai": "teal"
+    },
+    "#0c1793": {
+        "human": "royal",
+        "ai": "blue"
+    },
+    "#ffff81": {
+        "human": "butter",
+        "ai": "yellow-green"
+    },
+    "#f0833a": {
+        "human": "dusty orange",
+        "ai": "orange"
+    },
+    "#f1f33f": {
+        "human": "off yellow",
+        "ai": "chartreuse"
+    },
+    "#b1d27b": {
+        "human": "pale olive green",
+        "ai": "lime green"
+    },
+    "#fc824a": {
+        "human": "orangish",
+        "ai": "orange"
+    },
+    "#71aa34": {
+        "human": "leaf",
+        "ai": "lime green"
+    },
+    "#b7c9e2": {
+        "human": "light blue grey",
+        "ai": "periwinkle"
+    },
+    "#4b0101": {
+        "human": "dried blood",
+        "ai": "maroon"
+    },
+    "#a552e6": {
+        "human": "lightish purple",
+        "ai": "purple"
+    },
+    "#af2f0d": {
+        "human": "rusty red",
+        "ai": "red-orange"
+    },
+    "#8b88f8": {
+        "human": "lavender blue",
+        "ai": "blue"
+    },
+    "#9af764": {
+        "human": "light grass green",
+        "ai": "lime green"
+    },
+    "#a6fbb2": {
+        "human": "light mint green",
+        "ai": "mint green"
+    },
+    "#ffc512": {
+        "human": "sunflower",
+        "ai": "yellow"
+    },
+    "#750851": {
+        "human": "velvet",
+        "ai": "magenta"
+    },
+    "#c14a09": {
+        "human": "brick orange",
+        "ai": "orange"
+    },
+    "#fe2f4a": {
+        "human": "lightish red",
+        "ai": "red"
+    },
+    "#0203e2": {
+        "human": "pure blue",
+        "ai": "blue"
+    },
+    "#0a437a": {
+        "human": "twilight blue",
+        "ai": "navy blue"
+    },
+    "#a50055": {
+        "human": "violet red",
+        "ai": "magenta"
+    },
+    "#ae8b0c": {
+        "human": "yellowy brown",
+        "ai": "mustard"
+    },
+    "#fd798f": {
+        "human": "carnation",
+        "ai": "pink"
+    },
+    "#bfac05": {
+        "human": "muddy yellow",
+        "ai": "yellow"
+    },
+    "#3eaf76": {
+        "human": "dark seafoam green",
+        "ai": "green"
+    },
+    "#c74767": {
+        "human": "deep rose",
+        "ai": "magenta"
+    },
+    "#b9484e": {
+        "human": "dusty red",
+        "ai": "red"
+    },
+    "#647d8e": {
+        "human": "grey/blue",
+        "ai": "sky blue"
+    },
+    "#bffe28": {
+        "human": "lemon lime",
+        "ai": "lime green"
+    },
+    "#d725de": {
+        "human": "purple/pink",
+        "ai": "magenta"
+    },
+    "#b29705": {
+        "human": "brown yellow",
+        "ai": "yellow"
+    },
+    "#673a3f": {
+        "human": "purple brown",
+        "ai": "maroon"
+    },
+    "#a87dc2": {
+        "human": "wisteria",
+        "ai": "lavender"
+    },
+    "#fafe4b": {
+        "human": "banana yellow",
+        "ai": "lemon yellow"
+    },
+    "#c0022f": {
+        "human": "lipstick red",
+        "ai": "red"
+    },
+    "#0e87cc": {
+        "human": "water blue",
+        "ai": "blue"
+    },
+    "#8d8468": {
+        "human": "brown grey",
+        "ai": "yellow"
+    },
+    "#ad03de": {
+        "human": "vibrant purple",
+        "ai": "magenta"
+    },
+    "#8cff9e": {
+        "human": "baby green",
+        "ai": "mint green"
+    },
+    "#94ac02": {
+        "human": "barf green",
+        "ai": "lime green"
+    },
+    "#c4fff7": {
+        "human": "eggshell blue",
+        "ai": "mint green"
+    },
+    "#fdee73": {
+        "human": "sandy yellow",
+        "ai": "yellow"
+    },
+    "#33b864": {
+        "human": "cool green",
+        "ai": "green"
+    },
+    "#fff9d0": {
+        "human": "pale",
+        "ai": "beige"
+    },
+    "#758da3": {
+        "human": "blue/grey",
+        "ai": "sky blue"
+    },
+    "#f504c9": {
+        "human": "hot magenta",
+        "ai": "magenta"
+    },
+    "#77a1b5": {
+        "human": "greyblue",
+        "ai": "sky blue"
+    },
+    "#8756e4": {
+        "human": "purpley",
+        "ai": "purple"
+    },
+    "#889717": {
+        "human": "baby shit green",
+        "ai": "lime green"
+    },
+    "#c27e79": {
+        "human": "brownish pink",
+        "ai": "coral"
+    },
+    "#017371": {
+        "human": "dark aquamarine",
+        "ai": "teal"
+    },
+    "#9f8303": {
+        "human": "diarrhea",
+        "ai": "mustard"
+    },
+    "#f7d560": {
+        "human": "light mustard",
+        "ai": "yellow"
+    },
+    "#bdf6fe": {
+        "human": "pale sky blue",
+        "ai": "turquoise"
+    },
+    "#75b84f": {
+        "human": "turtle green",
+        "ai": "lime green"
+    },
+    "#9cbb04": {
+        "human": "bright olive",
+        "ai": "lime green"
+    },
+    "#29465b": {
+        "human": "dark grey blue",
+        "ai": "navy blue"
+    },
+    "#696006": {
+        "human": "greeny brown",
+        "ai": "olive green"
+    },
+    "#adf802": {
+        "human": "lemon green",
+        "ai": "lime green"
+    },
+    "#c1c6fc": {
+        "human": "light periwinkle",
+        "ai": "lavender"
+    },
+    "#35ad6b": {
+        "human": "seaweed green",
+        "ai": "green"
+    },
+    "#fffd37": {
+        "human": "sunshine yellow",
+        "ai": "chartreuse"
+    },
+    "#a442a0": {
+        "human": "ugly purple",
+        "ai": "magenta"
+    },
+    "#f36196": {
+        "human": "medium pink",
+        "ai": "magenta"
+    },
+    "#947706": {
+        "human": "puke brown",
+        "ai": "mustard"
+    },
+    "#fff4f2": {
+        "human": "very light pink",
+        "ai": "pink"
+    },
+    "#1e9167": {
+        "human": "viridian",
+        "ai": "green"
+    },
+    "#b5c306": {
+        "human": "bile",
+        "ai": "lime green"
+    },
+    "#feff7f": {
+        "human": "faded yellow",
+        "ai": "yellow"
+    },
+    "#cffdbc": {
+        "human": "very pale green",
+        "ai": "mint green"
+    },
+    "#0add08": {
+        "human": "vibrant green",
+        "ai": "lime green"
+    },
+    "#87fd05": {
+        "human": "bright lime",
+        "ai": "lime green"
+    },
+    "#1ef876": {
+        "human": "spearmint",
+        "ai": "lime green"
+    },
+    "#7bfdc7": {
+        "human": "light aquamarine",
+        "ai": "mint green"
+    },
+    "#bcecac": {
+        "human": "light sage",
+        "ai": "mint green"
+    },
+    "#bbf90f": {
+        "human": "yellowgreen",
+        "ai": "lime green"
+    },
+    "#ab9004": {
+        "human": "baby poo",
+        "ai": "yellow"
+    },
+    "#1fb57a": {
+        "human": "dark seafoam",
+        "ai": "turquoise"
+    },
+    "#00555a": {
+        "human": "deep teal",
+        "ai": "teal"
+    },
+    "#a484ac": {
+        "human": "heather",
+        "ai": "lavender"
+    },
+    "#c45508": {
+        "human": "rust orange",
+        "ai": "orange"
+    },
+    "#3f829d": {
+        "human": "dirty blue",
+        "ai": "sky blue"
+    },
+    "#548d44": {
+        "human": "fern green",
+        "ai": "green"
+    },
+    "#c95efb": {
+        "human": "bright lilac",
+        "ai": "magenta"
+    },
+    "#3ae57f": {
+        "human": "weird green",
+        "ai": "lime green"
+    },
+    "#016795": {
+        "human": "peacock blue",
+        "ai": "teal"
+    },
+    "#87a922": {
+        "human": "avocado green",
+        "ai": "lime green"
+    },
+    "#f0944d": {
+        "human": "faded orange",
+        "ai": "orange"
+    },
+    "#5d1451": {
+        "human": "grape purple",
+        "ai": "purple"
+    },
+    "#25ff29": {
+        "human": "hot green",
+        "ai": "lime green"
+    },
+    "#d0fe1d": {
+        "human": "lime yellow",
+        "ai": "lime green"
+    },
+    "#ffa62b": {
+        "human": "mango",
+        "ai": "orange"
+    },
+    "#01b44c": {
+        "human": "shamrock",
+        "ai": "green"
+    },
+    "#ff6cb5": {
+        "human": "bubblegum",
+        "ai": "magenta"
+    },
+    "#6b4247": {
+        "human": "purplish brown",
+        "ai": "maroon"
+    },
+    "#c7c10c": {
+        "human": "vomit yellow",
+        "ai": "chartreuse"
+    },
+    "#b7fffa": {
+        "human": "pale cyan",
+        "ai": "mint green"
+    },
+    "#aeff6e": {
+        "human": "key lime",
+        "ai": "lime green"
+    },
+    "#ec2d01": {
+        "human": "tomato red",
+        "ai": "red-orange"
+    },
+    "#76ff7b": {
+        "human": "lightgreen",
+        "ai": "lime green"
+    },
+    "#730039": {
+        "human": "merlot",
+        "ai": "maroon"
+    },
+    "#040348": {
+        "human": "night blue",
+        "ai": "blue"
+    },
+    "#df4ec8": {
+        "human": "purpleish pink",
+        "ai": "magenta"
+    },
+    "#6ecb3c": {
+        "human": "apple",
+        "ai": "lime green"
+    },
+    "#8f9805": {
+        "human": "baby poop green",
+        "ai": "lime green"
+    },
+    "#5edc1f": {
+        "human": "green apple",
+        "ai": "lime green"
+    },
+    "#d94ff5": {
+        "human": "heliotrope",
+        "ai": "fuchsia"
+    },
+    "#c8fd3d": {
+        "human": "yellow/green",
+        "ai": "lime green"
+    },
+    "#070d0d": {
+        "human": "almost black",
+        "ai": "black"
+    },
+    "#4984b8": {
+        "human": "cool blue",
+        "ai": "blue"
+    },
+    "#51b73b": {
+        "human": "leafy green",
+        "ai": "lime green"
+    },
+    "#ac7e04": {
+        "human": "mustard brown",
+        "ai": "mustard"
+    },
+    "#4e5481": {
+        "human": "dusk",
+        "ai": "blue"
+    },
+    "#876e4b": {
+        "human": "dull brown",
+        "ai": "burnt orange"
+    },
+    "#58bc08": {
+        "human": "frog green",
+        "ai": "lime green"
+    },
+    "#2fef10": {
+        "human": "vivid green",
+        "ai": "lime green"
+    },
+    "#2dfe54": {
+        "human": "bright light green",
+        "ai": "lime green"
+    },
+    "#0aff02": {
+        "human": "fluro green",
+        "ai": "lime green"
+    },
+    "#9cef43": {
+        "human": "kiwi",
+        "ai": "lime green"
+    },
+    "#18d17b": {
+        "human": "seaweed",
+        "ai": "green"
+    },
+    "#35530a": {
+        "human": "navy green",
+        "ai": "green"
+    },
+    "#1805db": {
+        "human": "ultramarine blue",
+        "ai": "blue"
+    },
+    "#6258c4": {
+        "human": "iris",
+        "ai": "blue"
+    },
+    "#ff964f": {
+        "human": "pastel orange",
+        "ai": "orange"
+    },
+    "#ffab0f": {
+        "human": "yellowish orange",
+        "ai": "orange"
+    },
+    "#8f8ce7": {
+        "human": "perrywinkle",
+        "ai": "lavender"
+    },
+    "#24bca8": {
+        "human": "tealish",
+        "ai": "turquoise"
+    },
+    "#3f012c": {
+        "human": "dark plum",
+        "ai": "dark purple"
+    },
+    "#cbf85f": {
+        "human": "pear",
+        "ai": "lime green"
+    },
+    "#ff724c": {
+        "human": "pinkish orange",
+        "ai": "orange"
+    },
+    "#280137": {
+        "human": "midnight purple",
+        "ai": "indigo"
+    },
+    "#b36ff6": {
+        "human": "light urple",
+        "ai": "purple"
+    },
+    "#48c072": {
+        "human": "dark mint",
+        "ai": "green"
+    },
+    "#bccb7a": {
+        "human": "greenish tan",
+        "ai": "lime green"
+    },
+    "#a8415b": {
+        "human": "light burgundy",
+        "ai": "magenta"
+    },
+    "#06b1c4": {
+        "human": "turquoise blue",
+        "ai": "turquoise"
+    },
+    "#cd7584": {
+        "human": "ugly pink",
+        "ai": "pink"
+    },
+    "#f1da7a": {
+        "human": "sandy",
+        "ai": "yellow"
+    },
+    "#ff0490": {
+        "human": "electric pink",
+        "ai": "magenta"
+    },
+    "#805b87": {
+        "human": "muted purple",
+        "ai": "purple"
+    },
+    "#50a747": {
+        "human": "mid green",
+        "ai": "lime green"
+    },
+    "#a8a495": {
+        "human": "greyish",
+        "ai": "beige"
+    },
+    "#cfff04": {
+        "human": "neon yellow",
+        "ai": "lime green"
+    },
+    "#ffff7e": {
+        "human": "banana",
+        "ai": "lemon"
+    },
+    "#ff7fa7": {
+        "human": "carnation pink",
+        "ai": "pink"
+    },
+    "#ef4026": {
+        "human": "tomato",
+        "ai": "red"
+    },
+    "#3c9992": {
+        "human": "sea",
+        "ai": "turquoise"
+    },
+    "#886806": {
+        "human": "muddy brown",
+        "ai": "mustard"
+    },
+    "#04f489": {
+        "human": "turquoise green",
+        "ai": "green"
+    },
+    "#fef69e": {
+        "human": "buff",
+        "ai": "pale yellow"
+    },
+    "#cfaf7b": {
+        "human": "fawn",
+        "ai": "peach"
+    },
+    "#3b719f": {
+        "human": "muted blue",
+        "ai": "blue"
+    },
+    "#fdc1c5": {
+        "human": "pale rose",
+        "ai": "pink"
+    },
+    "#20c073": {
+        "human": "dark mint green",
+        "ai": "green"
+    },
+    "#9b5fc0": {
+        "human": "amethyst",
+        "ai": "purple"
+    },
+    "#0f9b8e": {
+        "human": "blue/green",
+        "ai": "teal"
+    },
+    "#742802": {
+        "human": "chestnut",
+        "ai": "rust"
+    },
+    "#9db92c": {
+        "human": "sick green",
+        "ai": "lime green"
+    },
+    "#a4bf20": {
+        "human": "pea",
+        "ai": "lime green"
+    },
+    "#cd5909": {
+        "human": "rusty orange",
+        "ai": "orange"
+    },
+    "#ada587": {
+        "human": "stone",
+        "ai": "beige"
+    },
+    "#be013c": {
+        "human": "rose red",
+        "ai": "crimson"
+    },
+    "#b8ffeb": {
+        "human": "pale aqua",
+        "ai": "mint green"
+    },
+    "#dc4d01": {
+        "human": "deep orange",
+        "ai": "orange"
+    },
+    "#a2653e": {
+        "human": "earth",
+        "ai": "orange"
+    },
+    "#638b27": {
+        "human": "mossy green",
+        "ai": "lime green"
+    },
+    "#419c03": {
+        "human": "grassy green",
+        "ai": "green"
+    },
+    "#b1ff65": {
+        "human": "pale lime green",
+        "ai": "lime green"
+    },
+    "#9dbcd4": {
+        "human": "light grey blue",
+        "ai": "light blue"
+    },
+    "#fdfdfe": {
+        "human": "pale grey",
+        "ai": "white"
+    },
+    "#77ab56": {
+        "human": "asparagus",
+        "ai": "lime green"
+    },
+    "#464196": {
+        "human": "blueberry",
+        "ai": "blue"
+    },
+    "#990147": {
+        "human": "purple red",
+        "ai": "magenta"
+    },
+    "#befd73": {
+        "human": "pale lime",
+        "ai": "lime green"
+    },
+    "#32bf84": {
+        "human": "greenish teal",
+        "ai": "mint green"
+    },
+    "#af6f09": {
+        "human": "caramel",
+        "ai": "orange"
+    },
+    "#a0025c": {
+        "human": "deep magenta",
+        "ai": "magenta"
+    },
+    "#ffd8b1": {
+        "human": "light peach",
+        "ai": "peach"
+    },
+    "#7f4e1e": {
+        "human": "milk chocolate",
+        "ai": "burnt orange"
+    },
+    "#bf9b0c": {
+        "human": "ocher",
+        "ai": "yellow"
+    },
+    "#6ba353": {
+        "human": "off green",
+        "ai": "lime green"
+    },
+    "#f075e6": {
+        "human": "purply pink",
+        "ai": "magenta"
+    },
+    "#7bc8f6": {
+        "human": "lightblue",
+        "ai": "sky blue"
+    },
+    "#475f94": {
+        "human": "dusky blue",
+        "ai": "blue"
+    },
+    "#f5bf03": {
+        "human": "golden",
+        "ai": "yellow"
+    },
+    "#fffeb6": {
+        "human": "light beige",
+        "ai": "lemonchiffon"
+    },
+    "#fffd74": {
+        "human": "butter yellow",
+        "ai": "lemon"
+    },
+    "#895b7b": {
+        "human": "dusky purple",
+        "ai": "magenta"
+    },
+    "#436bad": {
+        "human": "french blue",
+        "ai": "blue"
+    },
+    "#d0c101": {
+        "human": "ugly yellow",
+        "ai": "yellow"
+    },
+    "#c6f808": {
+        "human": "greeny yellow",
+        "ai": "lime green"
+    },
+    "#f43605": {
+        "human": "orangish red",
+        "ai": "red"
+    },
+    "#02c14d": {
+        "human": "shamrock green",
+        "ai": "green"
+    },
+    "#b25f03": {
+        "human": "orangish brown",
+        "ai": "orange"
+    },
+    "#2a7e19": {
+        "human": "tree green",
+        "ai": "green"
+    },
+    "#490648": {
+        "human": "deep violet",
+        "ai": "purple"
+    },
+    "#536267": {
+        "human": "gunmetal",
+        "ai": "navy blue"
+    },
+    "#5a06ef": {
+        "human": "blue/purple",
+        "ai": "purple"
+    },
+    "#cf0234": {
+        "human": "cherry",
+        "ai": "red"
+    },
+    "#c4a661": {
+        "human": "sandy brown",
+        "ai": "yellow"
+    },
+    "#978a84": {
+        "human": "warm grey",
+        "ai": "pink"
+    },
+    "#1f0954": {
+        "human": "dark indigo",
+        "ai": "blue"
+    },
+    "#03012d": {
+        "human": "midnight",
+        "ai": "navy blue"
+    },
+    "#2bb179": {
+        "human": "bluey green",
+        "ai": "mint green"
+    },
+    "#c3909b": {
+        "human": "grey pink",
+        "ai": "pink"
+    },
+    "#a66fb5": {
+        "human": "soft purple",
+        "ai": "purple"
+    },
+    "#770001": {
+        "human": "blood",
+        "ai": "red"
+    },
+    "#922b05": {
+        "human": "brown red",
+        "ai": "orange"
+    },
+    "#7d7f7c": {
+        "human": "medium grey",
+        "ai": "sky blue"
+    },
+    "#990f4b": {
+        "human": "berry",
+        "ai": "magenta"
+    },
+    "#8f7303": {
+        "human": "poo",
+        "ai": "mustard"
+    },
+    "#c83cb9": {
+        "human": "purpley pink",
+        "ai": "magenta"
+    },
+    "#fea993": {
+        "human": "light salmon",
+        "ai": "peach"
+    },
+    "#acbb0d": {
+        "human": "snot",
+        "ai": "chartreuse"
+    },
+    "#c071fe": {
+        "human": "easter purple",
+        "ai": "purple"
+    },
+    "#ccfd7f": {
+        "human": "light yellow green",
+        "ai": "lime green"
+    },
+    "#00022e": {
+        "human": "dark navy blue",
+        "ai": "navy blue"
+    },
+    "#828344": {
+        "human": "drab",
+        "ai": "lime green"
+    },
+    "#ffc5cb": {
+        "human": "light rose",
+        "ai": "pink"
+    },
+    "#ab1239": {
+        "human": "rouge",
+        "ai": "crimson"
+    },
+    "#b0054b": {
+        "human": "purplish red",
+        "ai": "magenta"
+    },
+    "#99cc04": {
+        "human": "slime green",
+        "ai": "lime green"
+    },
+    "#937c00": {
+        "human": "baby poop",
+        "ai": "olive"
+    },
+    "#019529": {
+        "human": "irish green",
+        "ai": "green"
+    },
+    "#ef1de7": {
+        "human": "pink/purple",
+        "ai": "magenta"
+    },
+    "#000435": {
+        "human": "dark navy",
+        "ai": "navy blue"
+    },
+    "#42b395": {
+        "human": "greeny blue",
+        "ai": "turquoise"
+    },
+    "#9d5783": {
+        "human": "light plum",
+        "ai": "magenta"
+    },
+    "#c8aca9": {
+        "human": "pinkish grey",
+        "ai": "pink"
+    },
+    "#c87606": {
+        "human": "dirty orange",
+        "ai": "orange"
+    },
+    "#aa2704": {
+        "human": "rust red",
+        "ai": "red-orange"
+    },
+    "#e4cbff": {
+        "human": "pale lilac",
+        "ai": "lilac"
+    },
+    "#fa4224": {
+        "human": "orangey red",
+        "ai": "red"
+    },
+    "#0804f9": {
+        "human": "primary blue",
+        "ai": "blue"
+    },
+    "#5cb200": {
+        "human": "kermit green",
+        "ai": "lime green"
+    },
+    "#76424e": {
+        "human": "brownish purple",
+        "ai": "burgundy"
+    },
+    "#6c7a0e": {
+        "human": "murky green",
+        "ai": "lime green"
+    },
+    "#fbdd7e": {
+        "human": "wheat",
+        "ai": "yellow"
+    },
+    "#2a0134": {
+        "human": "very dark purple",
+        "ai": "purple"
+    },
+    "#044a05": {
+        "human": "bottle green",
+        "ai": "green"
+    },
+    "#fd4659": {
+        "human": "watermelon",
+        "ai": "red"
+    },
+    "#0d75f8": {
+        "human": "deep sky blue",
+        "ai": "blue"
+    },
+    "#fe0002": {
+        "human": "fire engine red",
+        "ai": "red"
+    },
+    "#cb9d06": {
+        "human": "yellow ochre",
+        "ai": "yellow"
+    },
+    "#fb7d07": {
+        "human": "pumpkin orange",
+        "ai": "orange"
+    },
+    "#b9cc81": {
+        "human": "pale olive",
+        "ai": "lime green"
+    },
+    "#edc8ff": {
+        "human": "light lilac",
+        "ai": "lavender"
+    },
+    "#61e160": {
+        "human": "lightish green",
+        "ai": "lime green"
+    },
+    "#8ab8fe": {
+        "human": "carolina blue",
+        "ai": "sky blue"
+    },
+    "#920a4e": {
+        "human": "mulberry",
+        "ai": "magenta"
+    },
+    "#fe02a2": {
+        "human": "shocking pink",
+        "ai": "magenta"
+    },
+    "#9a3001": {
+        "human": "auburn",
+        "ai": "orange"
+    },
+    "#65fe08": {
+        "human": "bright lime green",
+        "ai": "lime green"
+    },
+    "#befdb7": {
+        "human": "celadon",
+        "ai": "mint green"
+    },
+    "#b17261": {
+        "human": "pinkish brown",
+        "ai": "coral"
+    },
+    "#885f01": {
+        "human": "poo brown",
+        "ai": "amber"
+    },
+    "#02ccfe": {
+        "human": "bright sky blue",
+        "ai": "turquoise"
+    },
+    "#c1fd95": {
+        "human": "celery",
+        "ai": "lime green"
+    },
+    "#836539": {
+        "human": "dirt brown",
+        "ai": "burnt orange"
+    },
+    "#fb2943": {
+        "human": "strawberry",
+        "ai": "red"
+    },
+    "#84b701": {
+        "human": "dark lime",
+        "ai": "lime green"
+    },
+    "#b66325": {
+        "human": "copper",
+        "ai": "orange"
+    },
+    "#7f5112": {
+        "human": "medium brown",
+        "ai": "brown"
+    },
+    "#5fa052": {
+        "human": "muted green",
+        "ai": "lime green"
+    },
+    "#6dedfd": {
+        "human": "robin's egg",
+        "ai": "turquoise"
+    },
+    "#0bf9ea": {
+        "human": "bright aqua",
+        "ai": "turquoise"
+    },
+    "#c760ff": {
+        "human": "bright lavender",
+        "ai": "magenta"
+    },
+    "#ffffcb": {
+        "human": "ivory",
+        "ai": "pale yellow"
+    },
+    "#f6cefc": {
+        "human": "very light purple",
+        "ai": "lilac"
+    },
+    "#155084": {
+        "human": "light navy",
+        "ai": "blue"
+    },
+    "#f5054f": {
+        "human": "pink red",
+        "ai": "magenta"
+    },
+    "#645403": {
+        "human": "olive brown",
+        "ai": "olive green"
+    },
+    "#7a5901": {
+        "human": "poop brown",
+        "ai": "mustard"
+    },
+    "#a8b504": {
+        "human": "mustard green",
+        "ai": "lime green"
+    },
+    "#3d9973": {
+        "human": "ocean green",
+        "ai": "mint green"
+    },
+    "#000133": {
+        "human": "very dark blue",
+        "ai": "navy blue"
+    },
+    "#76a973": {
+        "human": "dusty green",
+        "ai": "mint green"
+    },
+    "#2e5a88": {
+        "human": "light navy blue",
+        "ai": "blue"
+    },
+    "#0bf77d": {
+        "human": "minty green",
+        "ai": "green"
+    },
+    "#bd6c48": {
+        "human": "adobe",
+        "ai": "orange"
+    },
+    "#ac1db8": {
+        "human": "barney",
+        "ai": "magenta"
+    },
+    "#2baf6a": {
+        "human": "jade green",
+        "ai": "green"
+    },
+    "#26f7fd": {
+        "human": "bright light blue",
+        "ai": "turquoise"
+    },
+    "#aefd6c": {
+        "human": "light lime",
+        "ai": "lime green"
+    },
+    "#9b8f55": {
+        "human": "dark khaki",
+        "ai": "yellow"
+    },
+    "#ffad01": {
+        "human": "orange yellow",
+        "ai": "orange"
+    },
+    "#c69c04": {
+        "human": "ocre",
+        "ai": "yellow"
+    },
+    "#f4d054": {
+        "human": "maize",
+        "ai": "yellow"
+    },
+    "#de9dac": {
+        "human": "faded pink",
+        "ai": "pink"
+    },
+    "#05480d": {
+        "human": "british racing green",
+        "ai": "green"
+    },
+    "#c9ae74": {
+        "human": "sandstone",
+        "ai": "mustard"
+    },
+    "#60460f": {
+        "human": "mud brown",
+        "ai": "olive"
+    },
+    "#98f6b0": {
+        "human": "light sea green",
+        "ai": "mint green"
+    },
+    "#8af1fe": {
+        "human": "robin egg blue",
+        "ai": "turquoise"
+    },
+    "#2ee8bb": {
+        "human": "aqua marine",
+        "ai": "mint green"
+    },
+    "#11875d": {
+        "human": "dark sea green",
+        "ai": "green"
+    },
+    "#fdb0c0": {
+        "human": "soft pink",
+        "ai": "pink"
+    },
+    "#b16002": {
+        "human": "orangey brown",
+        "ai": "orange"
+    },
+    "#f7022a": {
+        "human": "cherry red",
+        "ai": "red"
+    },
+    "#d5ab09": {
+        "human": "burnt yellow",
+        "ai": "yellow"
+    },
+    "#86775f": {
+        "human": "brownish grey",
+        "ai": "orange"
+    },
+    "#c69f59": {
+        "human": "camel",
+        "ai": "orange"
+    },
+    "#7a687f": {
+        "human": "purplish grey",
+        "ai": "purple"
+    },
+    "#042e60": {
+        "human": "marine",
+        "ai": "navy blue"
+    },
+    "#c88d94": {
+        "human": "greyish pink",
+        "ai": "pink"
+    },
+    "#a5fbd5": {
+        "human": "pale turquoise",
+        "ai": "mint green"
+    },
+    "#fffe71": {
+        "human": "pastel yellow",
+        "ai": "yellow"
+    },
+    "#6241c7": {
+        "human": "bluey purple",
+        "ai": "blue"
+    },
+    "#fffe40": {
+        "human": "canary yellow",
+        "ai": "chartreuse"
+    },
+    "#d3494e": {
+        "human": "faded red",
+        "ai": "red"
+    },
+    "#985e2b": {
+        "human": "sepia",
+        "ai": "orange"
+    },
+    "#a6814c": {
+        "human": "coffee",
+        "ai": "orange"
+    },
+    "#ff08e8": {
+        "human": "bright magenta",
+        "ai": "magenta"
+    },
+    "#9d7651": {
+        "human": "mocha",
+        "ai": "orange"
+    },
+    "#feffca": {
+        "human": "ecru",
+        "ai": "pale yellow"
+    },
+    "#98568d": {
+        "human": "purpleish",
+        "ai": "magenta"
+    },
+    "#9e003a": {
+        "human": "cranberry",
+        "ai": "crimson"
+    },
+    "#287c37": {
+        "human": "darkish green",
+        "ai": "green"
+    },
+    "#b96902": {
+        "human": "brown orange",
+        "ai": "orange"
+    },
+    "#ba6873": {
+        "human": "dusky rose",
+        "ai": "pink"
+    },
+    "#ff7855": {
+        "human": "melon",
+        "ai": "coral"
+    },
+    "#94b21c": {
+        "human": "sickly green",
+        "ai": "lime green"
+    },
+    "#c5c9c7": {
+        "human": "silver",
+        "ai": "white"
+    },
+    "#661aee": {
+        "human": "purply blue",
+        "ai": "purple"
+    },
+    "#6140ef": {
+        "human": "purpleish blue",
+        "ai": "blue"
+    },
+    "#9be5aa": {
+        "human": "hospital green",
+        "ai": "mint green"
+    },
+    "#7b5804": {
+        "human": "shit brown",
+        "ai": "mustard"
+    },
+    "#276ab3": {
+        "human": "mid blue",
+        "ai": "blue"
+    },
+    "#feb308": {
+        "human": "amber",
+        "ai": "orange"
+    },
+    "#8cfd7e": {
+        "human": "easter green",
+        "ai": "lime green"
+    },
+    "#6488ea": {
+        "human": "soft blue",
+        "ai": "blue"
+    },
+    "#056eee": {
+        "human": "cerulean blue",
+        "ai": "blue"
+    },
+    "#b27a01": {
+        "human": "golden brown",
+        "ai": "amber"
+    },
+    "#0ffef9": {
+        "human": "bright turquoise",
+        "ai": "turquoise"
+    },
+    "#fa2a55": {
+        "human": "red pink",
+        "ai": "red"
+    },
+    "#820747": {
+        "human": "red purple",
+        "ai": "magenta"
+    },
+    "#7a6a4f": {
+        "human": "greyish brown",
+        "ai": "brown"
+    },
+    "#f4320c": {
+        "human": "vermillion",
+        "ai": "red"
+    },
+    "#a13905": {
+        "human": "russet",
+        "ai": "orange"
+    },
+    "#6f828a": {
+        "human": "steel grey",
+        "ai": "sky blue"
+    },
+    "#a55af4": {
+        "human": "lighter purple",
+        "ai": "purple"
+    },
+    "#ad0afd": {
+        "human": "bright violet",
+        "ai": "magenta"
+    },
+    "#004577": {
+        "human": "prussian blue",
+        "ai": "navy blue"
+    },
+    "#658d6d": {
+        "human": "slate green",
+        "ai": "green"
+    },
+    "#ca7b80": {
+        "human": "dirty pink",
+        "ai": "coral"
+    },
+    "#005249": {
+        "human": "dark blue green",
+        "ai": "hunter green"
+    },
+    "#2b5d34": {
+        "human": "pine",
+        "ai": "green"
+    },
+    "#bff128": {
+        "human": "yellowy green",
+        "ai": "lime green"
+    },
+    "#b59410": {
+        "human": "dark gold",
+        "ai": "yellow"
+    },
+    "#2976bb": {
+        "human": "bluish",
+        "ai": "blue"
+    },
+    "#014182": {
+        "human": "darkish blue",
+        "ai": "blue"
+    },
+    "#bb3f3f": {
+        "human": "dull red",
+        "ai": "red"
+    },
+    "#fc2647": {
+        "human": "pinky red",
+        "ai": "red"
+    },
+    "#a87900": {
+        "human": "bronze",
+        "ai": "amber"
+    },
+    "#82cbb2": {
+        "human": "pale teal",
+        "ai": "mint green"
+    },
+    "#667c3e": {
+        "human": "military green",
+        "ai": "green"
+    },
+    "#fe46a5": {
+        "human": "barbie pink",
+        "ai": "magenta"
+    },
+    "#fe83cc": {
+        "human": "bubblegum pink",
+        "ai": "fuchsia"
+    },
+    "#94a617": {
+        "human": "pea soup green",
+        "ai": "lime green"
+    },
+    "#a88905": {
+        "human": "dark mustard",
+        "ai": "mustard"
+    },
+    "#7f5f00": {
+        "human": "shit",
+        "ai": "mustard"
+    },
+    "#9e43a2": {
+        "human": "medium purple",
+        "ai": "magenta"
+    },
+    "#062e03": {
+        "human": "very dark green",
+        "ai": "dark green"
+    },
+    "#8a6e45": {
+        "human": "dirt",
+        "ai": "burnt orange."
+    },
+    "#cc7a8b": {
+        "human": "dusky pink",
+        "ai": "pink"
+    },
+    "#9e0168": {
+        "human": "red violet",
+        "ai": "magenta"
+    },
+    "#fdff38": {
+        "human": "lemon yellow",
+        "ai": "chartreuse"
+    },
+    "#c0fa8b": {
+        "human": "pistachio",
+        "ai": "lime green"
+    },
+    "#eedc5b": {
+        "human": "dull yellow",
+        "ai": "yellow"
+    },
+    "#7ebd01": {
+        "human": "dark lime green",
+        "ai": "lime green"
+    },
+    "#3b5b92": {
+        "human": "denim blue",
+        "ai": "blue"
+    },
+    "#01889f": {
+        "human": "teal blue",
+        "ai": "turquoise"
+    },
+    "#3d7afd": {
+        "human": "lightish blue",
+        "ai": "blue"
+    },
+    "#5f34e7": {
+        "human": "purpley blue",
+        "ai": "blue"
+    },
+    "#6d5acf": {
+        "human": "light indigo",
+        "ai": "blue"
+    },
+    "#748500": {
+        "human": "swamp green",
+        "ai": "lime green"
+    },
+    "#706c11": {
+        "human": "brown green",
+        "ai": "olive green"
+    },
+    "#3c0008": {
+        "human": "dark maroon",
+        "ai": "maroon"
+    },
+    "#cb00f5": {
+        "human": "hot purple",
+        "ai": "magenta"
+    },
+    "#002d04": {
+        "human": "dark forest green",
+        "ai": "dark green"
+    },
+    "#658cbb": {
+        "human": "faded blue",
+        "ai": "light blue"
+    },
+    "#749551": {
+        "human": "drab green",
+        "ai": "lime green"
+    },
+    "#b9ff66": {
+        "human": "light lime green",
+        "ai": "lime green"
+    },
+    "#9dc100": {
+        "human": "snot green",
+        "ai": "lime green"
+    },
+    "#faee66": {
+        "human": "yellowish",
+        "ai": "yellow"
+    },
+    "#7efbb3": {
+        "human": "light blue green",
+        "ai": "mint green"
+    },
+    "#7b002c": {
+        "human": "bordeaux",
+        "ai": "burgundy"
+    },
+    "#c292a1": {
+        "human": "light mauve",
+        "ai": "pink"
+    },
+    "#017b92": {
+        "human": "ocean",
+        "ai": "teal"
+    },
+    "#fcc006": {
+        "human": "marigold",
+        "ai": "yellow"
+    },
+    "#657432": {
+        "human": "muddy green",
+        "ai": "green"
+    },
+    "#d8863b": {
+        "human": "dull orange",
+        "ai": "orange"
+    },
+    "#738595": {
+        "human": "steel",
+        "ai": "sky blue"
+    },
+    "#aa23ff": {
+        "human": "electric purple",
+        "ai": "purple"
+    },
+    "#08ff08": {
+        "human": "fluorescent green",
+        "ai": "lime green"
+    },
+    "#9b7a01": {
+        "human": "yellowish brown",
+        "ai": "mustard"
+    },
+    "#f29e8e": {
+        "human": "blush",
+        "ai": "salmon"
+    },
+    "#6fc276": {
+        "human": "soft green",
+        "ai": "lime green"
+    },
+    "#ff5b00": {
+        "human": "bright orange",
+        "ai": "orange"
+    },
+    "#fdff52": {
+        "human": "lemon",
+        "ai": "chartreuse"
+    },
+    "#866f85": {
+        "human": "purple grey",
+        "ai": "purple"
+    },
+    "#8ffe09": {
+        "human": "acid green",
+        "ai": "lime green"
+    },
+    "#eecffe": {
+        "human": "pale lavender",
+        "ai": "lavender"
+    },
+    "#510ac9": {
+        "human": "violet blue",
+        "ai": "blue-violet"
+    },
+    "#4f9153": {
+        "human": "light forest green",
+        "ai": "green"
+    },
+    "#9f2305": {
+        "human": "burnt red",
+        "ai": "red"
+    },
+    "#728639": {
+        "human": "khaki green",
+        "ai": "lime green"
+    },
+    "#de0c62": {
+        "human": "cerise",
+        "ai": "fuchsia"
+    },
+    "#916e99": {
+        "human": "faded purple",
+        "ai": "purple"
+    },
+    "#ffb16d": {
+        "human": "apricot",
+        "ai": "orange"
+    },
+    "#3c4d03": {
+        "human": "dark olive green",
+        "ai": "dark green"
+    },
+    "#7f7053": {
+        "human": "grey brown",
+        "ai": "copper"
+    },
+    "#77926f": {
+        "human": "green grey",
+        "ai": "mint green"
+    },
+    "#010fcc": {
+        "human": "true blue",
+        "ai": "blue"
+    },
+    "#ceaefa": {
+        "human": "pale violet",
+        "ai": "lavender"
+    },
+    "#8f99fb": {
+        "human": "periwinkle blue",
+        "ai": "lavender"
+    },
+    "#c6fcff": {
+        "human": "light sky blue",
+        "ai": "turquoise"
+    },
+    "#5539cc": {
+        "human": "blurple",
+        "ai": "blue"
+    },
+    "#544e03": {
+        "human": "green brown",
+        "ai": "olive green"
+    },
+    "#017a79": {
+        "human": "bluegreen",
+        "ai": "teal"
+    },
+    "#01f9c6": {
+        "human": "bright teal",
+        "ai": "turquoise"
+    },
+    "#c9b003": {
+        "human": "brownish yellow",
+        "ai": "yellow"
+    },
+    "#929901": {
+        "human": "pea soup",
+        "ai": "lime green"
+    },
+    "#0b5509": {
+        "human": "forest",
+        "ai": "green"
+    },
+    "#a00498": {
+        "human": "barney purple",
+        "ai": "magenta"
+    },
+    "#2000b1": {
+        "human": "ultramarine",
+        "ai": "blue"
+    },
+    "#94568c": {
+        "human": "purplish",
+        "ai": "magenta"
+    },
+    "#c2be0e": {
+        "human": "puke yellow",
+        "ai": "chartreuse"
+    },
+    "#748b97": {
+        "human": "bluish grey",
+        "ai": "sky blue"
+    },
+    "#665fd1": {
+        "human": "dark periwinkle",
+        "ai": "blue"
+    },
+    "#9c6da5": {
+        "human": "dark lilac",
+        "ai": "purple"
+    },
+    "#c44240": {
+        "human": "reddish",
+        "ai": "red"
+    },
+    "#a24857": {
+        "human": "light maroon",
+        "ai": "red"
+    },
+    "#825f87": {
+        "human": "dusty purple",
+        "ai": "purple"
+    },
+    "#c9643b": {
+        "human": "terra cotta",
+        "ai": "orange"
+    },
+    "#90b134": {
+        "human": "avocado",
+        "ai": "lime green"
+    },
+    "#01386a": {
+        "human": "marine blue",
+        "ai": "navy blue"
+    },
+    "#25a36f": {
+        "human": "teal green",
+        "ai": "mint green"
+    },
+    "#59656d": {
+        "human": "slate grey",
+        "ai": "navy blue"
+    },
+    "#75fd63": {
+        "human": "lighter green",
+        "ai": "lime green"
+    },
+    "#21fc0d": {
+        "human": "electric green",
+        "ai": "lime green"
+    },
+    "#5a86ad": {
+        "human": "dusty blue",
+        "ai": "sky blue"
+    },
+    "#fec615": {
+        "human": "golden yellow",
+        "ai": "yellow"
+    },
+    "#fffd01": {
+        "human": "bright yellow",
+        "ai": "chartreuse"
+    },
+    "#dfc5fe": {
+        "human": "light lavender",
+        "ai": "lavender"
+    },
+    "#b26400": {
+        "human": "umber",
+        "ai": "orange"
+    },
+    "#7f5e00": {
+        "human": "poop",
+        "ai": "mustard"
+    },
+    "#de7e5d": {
+        "human": "dark peach",
+        "ai": "coral"
+    },
+    "#048243": {
+        "human": "jungle green",
+        "ai": "green"
+    },
+    "#ffffd4": {
+        "human": "eggshell",
+        "ai": "cream"
+    },
+    "#3b638c": {
+        "human": "denim",
+        "ai": "blue"
+    },
+    "#b79400": {
+        "human": "yellow brown",
+        "ai": "yellow"
+    },
+    "#84597e": {
+        "human": "dull purple",
+        "ai": "purple"
+    },
+    "#411900": {
+        "human": "chocolate brown",
+        "ai": "mahogany"
+    },
+    "#7b0323": {
+        "human": "wine red",
+        "ai": "burgundy"
+    },
+    "#04d9ff": {
+        "human": "neon blue",
+        "ai": "turquoise"
+    },
+    "#667e2c": {
+        "human": "dirty green",
+        "ai": "green"
+    },
+    "#fbeeac": {
+        "human": "light tan",
+        "ai": "beige"
+    },
+    "#d7fffe": {
+        "human": "ice blue",
+        "ai": "mint green"
+    },
+    "#4e7496": {
+        "human": "cadet blue",
+        "ai": "blue"
+    },
+    "#874c62": {
+        "human": "dark mauve",
+        "ai": "magenta"
+    },
+    "#d5ffff": {
+        "human": "very light blue",
+        "ai": "mint green"
+    },
+    "#826d8c": {
+        "human": "grey purple",
+        "ai": "purple"
+    },
+    "#ffbacd": {
+        "human": "pastel pink",
+        "ai": "pink"
+    },
+    "#d1ffbd": {
+        "human": "very light green",
+        "ai": "mint green"
+    },
+    "#448ee4": {
+        "human": "dark sky blue",
+        "ai": "blue"
+    },
+    "#05472a": {
+        "human": "evergreen",
+        "ai": "forest green"
+    },
+    "#d5869d": {
+        "human": "dull pink",
+        "ai": "pink"
+    },
+    "#3d0734": {
+        "human": "aubergine",
+        "ai": "purple"
+    },
+    "#4a0100": {
+        "human": "mahogany",
+        "ai": "maroon"
+    },
+    "#f8481c": {
+        "human": "reddish orange",
+        "ai": "orange"
+    },
+    "#02590f": {
+        "human": "deep green",
+        "ai": "green"
+    },
+    "#89a203": {
+        "human": "vomit green",
+        "ai": "lime green"
+    },
+    "#e03fd8": {
+        "human": "purple pink",
+        "ai": "magenta"
+    },
+    "#d58a94": {
+        "human": "dusty pink",
+        "ai": "pink"
+    },
+    "#7bb274": {
+        "human": "faded green",
+        "ai": "lime green"
+    },
+    "#526525": {
+        "human": "camo green",
+        "ai": "green"
+    },
+    "#c94cbe": {
+        "human": "pinky purple",
+        "ai": "magenta"
+    },
+    "#db4bda": {
+        "human": "pink purple",
+        "ai": "magenta"
+    },
+    "#9e3623": {
+        "human": "brownish red",
+        "ai": "red"
+    },
+    "#b5485d": {
+        "human": "dark rose",
+        "ai": "magenta"
+    },
+    "#735c12": {
+        "human": "mud",
+        "ai": "olive-green"
+    },
+    "#9c6d57": {
+        "human": "brownish",
+        "ai": "orange"
+    },
+    "#028f1e": {
+        "human": "emerald green",
+        "ai": "green"
+    },
+    "#b1916e": {
+        "human": "pale brown",
+        "ai": "peach"
+    },
+    "#49759c": {
+        "human": "dull blue",
+        "ai": "blue"
+    },
+    "#a0450e": {
+        "human": "burnt umber",
+        "ai": "orange"
+    },
+    "#39ad48": {
+        "human": "medium green",
+        "ai": "green"
+    },
+    "#b66a50": {
+        "human": "clay",
+        "ai": "orange"
+    },
+    "#8cffdb": {
+        "human": "light aqua",
+        "ai": "mint green"
+    },
+    "#a4be5c": {
+        "human": "light olive green",
+        "ai": "lime green"
+    },
+    "#cb7723": {
+        "human": "brownish orange",
+        "ai": "orange"
+    },
+    "#05696b": {
+        "human": "dark aqua",
+        "ai": "teal"
+    },
+    "#ce5dae": {
+        "human": "purplish pink",
+        "ai": "magenta"
+    },
+    "#c85a53": {
+        "human": "dark salmon",
+        "ai": "red"
+    },
+    "#96ae8d": {
+        "human": "greenish grey",
+        "ai": "mint green"
+    },
+    "#1fa774": {
+        "human": "jade",
+        "ai": "mint green"
+    },
+    "#7a9703": {
+        "human": "ugly green",
+        "ai": "lime green"
+    },
+    "#ac9362": {
+        "human": "dark beige",
+        "ai": "orange"
+    },
+    "#01a049": {
+        "human": "emerald",
+        "ai": "green"
+    },
+    "#d9544d": {
+        "human": "pale red",
+        "ai": "red"
+    },
+    "#fa5ff7": {
+        "human": "light magenta",
+        "ai": "magenta"
+    },
+    "#82cafc": {
+        "human": "sky",
+        "ai": "sky blue"
+    },
+    "#acfffc": {
+        "human": "light cyan",
+        "ai": "turquoise"
+    },
+    "#fcb001": {
+        "human": "yellow orange",
+        "ai": "orange"
+    },
+    "#910951": {
+        "human": "reddish purple",
+        "ai": "magenta"
+    },
+    "#fe2c54": {
+        "human": "reddish pink",
+        "ai": "red"
+    },
+    "#c875c4": {
+        "human": "orchid",
+        "ai": "magenta"
+    },
+    "#cdc50a": {
+        "human": "dirty yellow",
+        "ai": "chartreuse"
+    },
+    "#fd411e": {
+        "human": "orange red",
+        "ai": "red-orange"
+    },
+    "#9a0200": {
+        "human": "deep red",
+        "ai": "red"
+    },
+    "#be6400": {
+        "human": "orange brown",
+        "ai": "orange"
+    },
+    "#030aa7": {
+        "human": "cobalt blue",
+        "ai": "blue"
+    },
+    "#fe019a": {
+        "human": "neon pink",
+        "ai": "magenta"
+    },
+    "#f7879a": {
+        "human": "rose pink",
+        "ai": "pink"
+    },
+    "#887191": {
+        "human": "greyish purple",
+        "ai": "purple"
+    },
+    "#b00149": {
+        "human": "raspberry",
+        "ai": "magenta"
+    },
+    "#12e193": {
+        "human": "aqua green",
+        "ai": "mint green"
+    },
+    "#fe7b7c": {
+        "human": "salmon pink",
+        "ai": "coral"
+    },
+    "#ff9408": {
+        "human": "tangerine",
+        "ai": "orange"
+    },
+    "#6a6e09": {
+        "human": "brownish green",
+        "ai": "olive green"
+    },
+    "#8b2e16": {
+        "human": "red brown",
+        "ai": "red"
+    },
+    "#696112": {
+        "human": "greenish brown",
+        "ai": "olive green"
+    },
+    "#e17701": {
+        "human": "pumpkin",
+        "ai": "orange"
+    },
+    "#0a481e": {
+        "human": "pine green",
+        "ai": "dark green"
+    },
+    "#343837": {
+        "human": "charcoal",
+        "ai": "black"
+    },
+    "#ffb7ce": {
+        "human": "baby pink",
+        "ai": "pink"
+    },
+    "#6a79f7": {
+        "human": "cornflower",
+        "ai": "blue"
+    },
+    "#5d06e9": {
+        "human": "blue violet",
+        "ai": "blue-purple"
+    },
+    "#3d1c02": {
+        "human": "chocolate",
+        "ai": "brown"
+    },
+    "#82a67d": {
+        "human": "greyish green",
+        "ai": "mint green"
+    },
+    "#be0119": {
+        "human": "scarlet",
+        "ai": "red"
+    },
+    "#c9ff27": {
+        "human": "green yellow",
+        "ai": "lime green"
+    },
+    "#373e02": {
+        "human": "dark olive",
+        "ai": "olive green"
+    },
+    "#a9561e": {
+        "human": "sienna",
+        "ai": "orange"
+    },
+    "#caa0ff": {
+        "human": "pastel purple",
+        "ai": "lavender"
+    },
+    "#ca6641": {
+        "human": "terracotta",
+        "ai": "orange"
+    },
+    "#02d8e9": {
+        "human": "aqua blue",
+        "ai": "turquoise"
+    },
+    "#88b378": {
+        "human": "sage green",
+        "ai": "lime green"
+    },
+    "#980002": {
+        "human": "blood red",
+        "ai": "red"
+    },
+    "#cb0162": {
+        "human": "deep pink",
+        "ai": "magenta"
+    },
+    "#5cac2d": {
+        "human": "grass",
+        "ai": "lime green"
+    },
+    "#769958": {
+        "human": "moss",
+        "ai": "lime green"
+    },
+    "#a2bffe": {
+        "human": "pastel blue",
+        "ai": "periwinkle"
+    },
+    "#10a674": {
+        "human": "bluish green",
+        "ai": "green"
+    },
+    "#06b48b": {
+        "human": "green blue",
+        "ai": "turquoise"
+    },
+    "#af884a": {
+        "human": "dark tan",
+        "ai": "orange"
+    },
+    "#0b8b87": {
+        "human": "greenish blue",
+        "ai": "teal"
+    },
+    "#ffa756": {
+        "human": "pale orange",
+        "ai": "orange"
+    },
+    "#a2a415": {
+        "human": "vomit",
+        "ai": "chartreuse"
+    },
+    "#154406": {
+        "human": "forrest green",
+        "ai": "green"
+    },
+    "#856798": {
+        "human": "dark lavender",
+        "ai": "purple"
+    },
+    "#34013f": {
+        "human": "dark violet",
+        "ai": "indigo"
+    },
+    "#632de9": {
+        "human": "purple blue",
+        "ai": "blue"
+    },
+    "#0a888a": {
+        "human": "dark cyan",
+        "ai": "teal"
+    },
+    "#6f7632": {
+        "human": "olive drab",
+        "ai": "green"
+    },
+    "#d46a7e": {
+        "human": "pinkish",
+        "ai": "pink"
+    },
+    "#1e488f": {
+        "human": "cobalt",
+        "ai": "blue"
+    },
+    "#bc13fe": {
+        "human": "neon purple",
+        "ai": "magenta"
+    },
+    "#7ef4cc": {
+        "human": "light turquoise",
+        "ai": "mint green"
+    },
+    "#76cd26": {
+        "human": "apple green",
+        "ai": "lime green"
+    },
+    "#74a662": {
+        "human": "dull green",
+        "ai": "lime green"
+    },
+    "#80013f": {
+        "human": "wine",
+        "ai": "burgundy"
+    },
+    "#b1d1fc": {
+        "human": "powder blue",
+        "ai": "sky blue"
+    },
+    "#ffffe4": {
+        "human": "off white",
+        "ai": "beige"
+    },
+    "#0652ff": {
+        "human": "electric blue",
+        "ai": "blue"
+    },
+    "#045c5a": {
+        "human": "dark turquoise",
+        "ai": "teal"
+    },
+    "#5729ce": {
+        "human": "blue purple",
+        "ai": "blue"
+    },
+    "#069af3": {
+        "human": "azure",
+        "ai": "sky blue"
+    },
+    "#ff000d": {
+        "human": "bright red",
+        "ai": "red"
+    },
+    "#f10c45": {
+        "human": "pinkish red",
+        "ai": "red"
+    },
+    "#5170d7": {
+        "human": "cornflower blue",
+        "ai": "blue"
+    },
+    "#acbf69": {
+        "human": "light olive",
+        "ai": "lime green"
+    },
+    "#6c3461": {
+        "human": "grape",
+        "ai": "purple"
+    },
+    "#5e819d": {
+        "human": "greyish blue",
+        "ai": "sky blue"
+    },
+    "#601ef9": {
+        "human": "purplish blue",
+        "ai": "blue-violet"
+    },
+    "#b0dd16": {
+        "human": "yellowish green",
+        "ai": "lime green"
+    },
+    "#cdfd02": {
+        "human": "greenish yellow",
+        "ai": "lime green"
+    },
+    "#2c6fbb": {
+        "human": "medium blue",
+        "ai": "blue"
+    },
+    "#c0737a": {
+        "human": "dusty rose",
+        "ai": "coral pink"
+    },
+    "#d6b4fc": {
+        "human": "light violet",
+        "ai": "lavender"
+    },
+    "#020035": {
+        "human": "midnight blue",
+        "ai": "navy blue"
+    },
+    "#703be7": {
+        "human": "bluish purple",
+        "ai": "blue-violet"
+    },
+    "#fd3c06": {
+        "human": "red orange",
+        "ai": "orange"
+    },
+    "#960056": {
+        "human": "dark magenta",
+        "ai": "magenta"
+    },
+    "#40a368": {
+        "human": "greenish",
+        "ai": "green"
+    },
+    "#03719c": {
+        "human": "ocean blue",
+        "ai": "blue"
+    },
+    "#fc5a50": {
+        "human": "coral",
+        "ai": "coral"
+    },
+    "#ffffc2": {
+        "human": "cream",
+        "ai": "lemon chiffon"
+    },
+    "#7f2b0a": {
+        "human": "reddish brown",
+        "ai": "burnt orange"
+    },
+    "#b04e0f": {
+        "human": "burnt sienna",
+        "ai": "orange"
+    },
+    "#a03623": {
+        "human": "brick",
+        "ai": "red"
+    },
+    "#87ae73": {
+        "human": "sage",
+        "ai": "lime green"
+    },
+    "#789b73": {
+        "human": "grey green",
+        "ai": "mint green"
+    },
+    "#ffffff": {
+        "human": "white",
+        "ai": "white"
+    },
+    "#98eff9": {
+        "human": "robin's egg blue",
+        "ai": "turquoise"
+    },
+    "#658b38": {
+        "human": "moss green",
+        "ai": "lime green"
+    },
+    "#5a7d9a": {
+        "human": "steel blue",
+        "ai": "blue"
+    },
+    "#380835": {
+        "human": "eggplant",
+        "ai": "purple"
+    },
+    "#fffe7a": {
+        "human": "light yellow",
+        "ai": "lemon yellow"
+    },
+    "#5ca904": {
+        "human": "leaf green",
+        "ai": "lime green"
+    },
+    "#d8dcd6": {
+        "human": "light grey",
+        "ai": "white"
+    },
+    "#a5a502": {
+        "human": "puke",
+        "ai": "chartreuse"
+    },
+    "#d648d7": {
+        "human": "pinkish purple",
+        "ai": "magenta"
+    },
+    "#047495": {
+        "human": "sea blue",
+        "ai": "teal"
+    },
+    "#b790d4": {
+        "human": "pale purple",
+        "ai": "lavender"
+    },
+    "#5b7c99": {
+        "human": "slate blue",
+        "ai": "blue"
+    },
+    "#607c8e": {
+        "human": "blue grey",
+        "ai": "azure"
+    },
+    "#0b4008": {
+        "human": "hunter green",
+        "ai": "dark green."
+    },
+    "#ed0dd9": {
+        "human": "fuchsia",
+        "ai": "magenta"
+    },
+    "#8c000f": {
+        "human": "crimson",
+        "ai": "red"
+    },
+    "#ffff84": {
+        "human": "pale yellow",
+        "ai": "lemon"
+    },
+    "#bf9005": {
+        "human": "ochre",
+        "ai": "mustard"
+    },
+    "#d2bd0a": {
+        "human": "mustard yellow",
+        "ai": "yellow"
+    },
+    "#ff474c": {
+        "human": "light red",
+        "ai": "red"
+    },
+    "#0485d1": {
+        "human": "cerulean",
+        "ai": "blue"
+    },
+    "#ffcfdc": {
+        "human": "pale pink",
+        "ai": "pink"
+    },
+    "#040273": {
+        "human": "deep blue",
+        "ai": "blue"
+    },
+    "#a83c09": {
+        "human": "rust",
+        "ai": "orange"
+    },
+    "#90e4c1": {
+        "human": "light teal",
+        "ai": "mint green"
+    },
+    "#516572": {
+        "human": "slate",
+        "ai": "navy blue"
+    },
+    "#fac205": {
+        "human": "goldenrod",
+        "ai": "yellow"
+    },
+    "#d5b60a": {
+        "human": "dark yellow",
+        "ai": "yellow"
+    },
+    "#363737": {
+        "human": "dark grey",
+        "ai": "black"
+    },
+    "#4b5d16": {
+        "human": "army green",
+        "ai": "green"
+    },
+    "#6b8ba4": {
+        "human": "grey blue",
+        "ai": "sky blue"
+    },
+    "#80f9ad": {
+        "human": "seafoam",
+        "ai": "mint green"
+    },
+    "#a57e52": {
+        "human": "puce",
+        "ai": "orange"
+    },
+    "#a9f971": {
+        "human": "spring green",
+        "ai": "lime green"
+    },
+    "#c65102": {
+        "human": "dark orange",
+        "ai": "orange"
+    },
+    "#e2ca76": {
+        "human": "sand",
+        "ai": "yellow"
+    },
+    "#b0ff9d": {
+        "human": "pastel green",
+        "ai": "mint green"
+    },
+    "#9ffeb0": {
+        "human": "mint",
+        "ai": "mint green"
+    },
+    "#fdaa48": {
+        "human": "light orange",
+        "ai": "orange"
+    },
+    "#fe01b1": {
+        "human": "bright pink",
+        "ai": "magenta"
+    },
+    "#c1f80a": {
+        "human": "chartreuse",
+        "ai": "lime green"
+    },
+    "#36013f": {
+        "human": "deep purple",
+        "ai": "purple"
+    },
+    "#341c02": {
+        "human": "dark brown",
+        "ai": "brown"
+    },
+    "#b9a281": {
+        "human": "taupe",
+        "ai": "peach"
+    },
+    "#8eab12": {
+        "human": "pea green",
+        "ai": "lime green"
+    },
+    "#9aae07": {
+        "human": "puke green",
+        "ai": "lime green"
+    },
+    "#02ab2e": {
+        "human": "kelly green",
+        "ai": "green"
+    },
+    "#7af9ab": {
+        "human": "seafoam green",
+        "ai": "mint green"
+    },
+    "#137e6d": {
+        "human": "blue green",
+        "ai": "teal"
+    },
+    "#aaa662": {
+        "human": "khaki",
+        "ai": "lime green"
+    },
+    "#610023": {
+        "human": "burgundy",
+        "ai": "burgundy"
+    },
+    "#014d4e": {
+        "human": "dark teal",
+        "ai": "teal"
+    },
+    "#8f1402": {
+        "human": "brick red",
+        "ai": "red"
+    },
+    "#4b006e": {
+        "human": "royal purple",
+        "ai": "purple"
+    },
+    "#580f41": {
+        "human": "plum",
+        "ai": "purple"
+    },
+    "#8fff9f": {
+        "human": "mint green",
+        "ai": "mint green"
+    },
+    "#dbb40c": {
+        "human": "gold",
+        "ai": "yellow"
+    },
+    "#a2cffe": {
+        "human": "baby blue",
+        "ai": "sky blue"
+    },
+    "#c0fb2d": {
+        "human": "yellow green",
+        "ai": "lime green"
+    },
+    "#be03fd": {
+        "human": "bright purple",
+        "ai": "magenta"
+    },
+    "#840000": {
+        "human": "dark red",
+        "ai": "crimson"
+    },
+    "#d0fefe": {
+        "human": "pale blue",
+        "ai": "teal"
+    },
+    "#3f9b0b": {
+        "human": "grass green",
+        "ai": "green"
+    },
+    "#01153e": {
+        "human": "navy",
+        "ai": "navy blue"
+    },
+    "#04d8b2": {
+        "human": "aquamarine",
+        "ai": "turquoise"
+    },
+    "#c04e01": {
+        "human": "burnt orange",
+        "ai": "orange"
+    },
+    "#0cff0c": {
+        "human": "neon green",
+        "ai": "lime green"
+    },
+    "#0165fc": {
+        "human": "bright blue",
+        "ai": "blue"
+    },
+    "#cf6275": {
+        "human": "rose",
+        "ai": "pink"
+    },
+    "#ffd1df": {
+        "human": "light pink",
+        "ai": "pink"
+    },
+    "#ceb301": {
+        "human": "mustard",
+        "ai": "yellow"
+    },
+    "#380282": {
+        "human": "indigo",
+        "ai": "blue"
+    },
+    "#aaff32": {
+        "human": "lime",
+        "ai": "lime green"
+    },
+    "#53fca1": {
+        "human": "sea green",
+        "ai": "mint green"
+    },
+    "#8e82fe": {
+        "human": "periwinkle",
+        "ai": "blue-purple"
+    },
+    "#cb416b": {
+        "human": "dark pink",
+        "ai": "fuchsia"
+    },
+    "#677a04": {
+        "human": "olive green",
+        "ai": "lime green"
+    },
+    "#ffb07c": {
+        "human": "peach",
+        "ai": "peach"
+    },
+    "#c7fdb5": {
+        "human": "pale green",
+        "ai": "mint green"
+    },
+    "#ad8150": {
+        "human": "light brown",
+        "ai": "orange"
+    },
+    "#ff028d": {
+        "human": "hot pink",
+        "ai": "magenta"
+    },
+    "#000000": {
+        "human": "black",
+        "ai": "black"
+    },
+    "#cea2fd": {
+        "human": "lilac",
+        "ai": "lavender"
+    },
+    "#001146": {
+        "human": "navy blue",
+        "ai": "navy blue"
+    },
+    "#0504aa": {
+        "human": "royal blue",
+        "ai": "blue"
+    },
+    "#e6daa6": {
+        "human": "beige",
+        "ai": "beige"
+    },
+    "#ff796c": {
+        "human": "salmon",
+        "ai": "coral"
+    },
+    "#6e750e": {
+        "human": "olive",
+        "ai": "lime green"
+    },
+    "#650021": {
+        "human": "maroon",
+        "ai": "maroon"
+    },
+    "#01ff07": {
+        "human": "bright green",
+        "ai": "lime green"
+    },
+    "#35063e": {
+        "human": "dark purple",
+        "ai": "purple"
+    },
+    "#ae7181": {
+        "human": "mauve",
+        "ai": "magenta"
+    },
+    "#06470c": {
+        "human": "forest green",
+        "ai": "green"
+    },
+    "#13eac9": {
+        "human": "aqua",
+        "ai": "turquoise"
+    },
+    "#00ffff": {
+        "human": "cyan",
+        "ai": "turquoise"
+    },
+    "#d1b26f": {
+        "human": "tan",
+        "ai": "mustard"
+    },
+    "#00035b": {
+        "human": "dark blue",
+        "ai": "blue"
+    },
+    "#c79fef": {
+        "human": "lavender",
+        "ai": "lavender"
+    },
+    "#06c2ac": {
+        "human": "turquoise",
+        "ai": "turquoise"
+    },
+    "#033500": {
+        "human": "dark green",
+        "ai": "dark green"
+    },
+    "#9a0eea": {
+        "human": "violet",
+        "ai": "purple"
+    },
+    "#bf77f6": {
+        "human": "light purple",
+        "ai": "purple"
+    },
+    "#89fe05": {
+        "human": "lime green",
+        "ai": "lime green"
+    },
+    "#929591": {
+        "human": "grey",
+        "ai": "light blue"
+    },
+    "#75bbfd": {
+        "human": "sky blue",
+        "ai": "sky blue"
+    },
+    "#ffff14": {
+        "human": "yellow",
+        "ai": "chartreuse"
+    },
+    "#c20078": {
+        "human": "magenta",
+        "ai": "magenta"
+    },
+    "#96f97b": {
+        "human": "light green",
+        "ai": "lime green"
+    },
+    "#f97306": {
+        "human": "orange",
+        "ai": "orange"
+    },
+    "#029386": {
+        "human": "teal",
+        "ai": "teal"
+    },
+    "#95d0fc": {
+        "human": "light blue",
+        "ai": "sky blue"
+    },
+    "#e50000": {
+        "human": "red",
+        "ai": "red"
+    },
+    "#653700": {
+        "human": "brown",
+        "ai": "brown"
+    },
+    "#ff81c0": {
+        "human": "pink",
+        "ai": "pink"
+    },
+    "#0343df": {
+        "human": "blue",
+        "ai": "blue"
+    },
+    "#15b01a": {
+        "human": "green",
+        "ai": "green"
+    },
+    "#7e1e9c": {
+        "human": "purple",
+        "ai": "purple"
+    }
+}
